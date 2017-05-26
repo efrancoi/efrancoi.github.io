@@ -9,7 +9,7 @@ name: Edwin Francois
 description: Student at the University of Delaware
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/efrancoi/efrancoi.github.io/blob/master/images/selfie.jpg
+avatar: ./images/selfie.jpg
 # Flags below are optional
 #
 
