@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Greetings,
 
-### More Information
+I am a senior at the University of Delaware and this is my page!
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact Information
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+You can contact me anythime at [my email](mailto:edwinfrancois0@gmail.com)
